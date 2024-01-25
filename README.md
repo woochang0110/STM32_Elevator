@@ -4,19 +4,19 @@
 <br>
 
 ## Contents:
- - <font size="+1">[ÇÁ·ÎÁ§Æ® °³¿ä](#outline)</font>
+ - <font size="+1">[í”„ë¡œì íŠ¸ ê°œìš”](#outline)</font>
  - <font size="+1">[UML Diagram](#uml-diagram)</font>
- - <font size="+1">[°á°ú¹°](#output)</font>
- - <font size="+1">[µ¥¸ğ µ¿¿µ»ó](#demo-video)</font>
- - <font size="+1">[¹ßÇ¥ ÀÚ·á](#presentation-document)</font>
+ - <font size="+1">[ê²°ê³¼ë¬¼](#output)</font>
+ - <font size="+1">[ë°ëª¨ ë™ì˜ìƒ](#demo-video)</font>
+ - <font size="+1">[ë°œí‘œ ìë£Œ](#presentation-document)</font>
 <br><br><br>
 
 ## Outline
-ÇÁ·ÎÁ§Æ® ÁÖÁ¦: STM32F429ZI¿Í ´Ù¾çÇÑ HW ¸ğµâÀ» È°¿ëÇÑ ¿¤¸®º£ÀÌÅÍ ¸¸µé±â <br>
+í”„ë¡œì íŠ¸ ì£¼ì œ: STM32F429ZIì™€ ë‹¤ì–‘í•œ HW ëª¨ë“ˆì„ í™œìš©í•œ ì—˜ë¦¬ë² ì´í„° ë§Œë“¤ê¸° <br>
 <br>
-ÇÁ·ÎÁ§Æ® ¼öÇàÀÚ: ÀÎÅÚ ¿§ÁöAI SW°³¹ßÀÚ ¾ÆÄ«µ¥¹Ì 3±â ¿ìÃ¢¹Î<br>
+í”„ë¡œì íŠ¸ ìˆ˜í–‰ì: ì¸í…” ì—£ì§€AI SWê°œë°œì ì•„ì¹´ë°ë¯¸ 3ê¸° ìš°ì°½ë¯¼<br>
 <br>
-ÇÁ·ÎÁ§Æ® ¼öÇà±â°£: 24/01/23 ~ 24/01/25<br>
+í”„ë¡œì íŠ¸ ìˆ˜í–‰ê¸°ê°„: 24/01/23 ~ 24/01/25<br>
 
 <br>
 <br>
@@ -46,23 +46,23 @@
 
 ## Output
 
-[![HW Circuit](./Documents/HW_CIRCUIT.png)]
+[![HW Circuit](./Documents/HW_CIRCUIT.PNG)]
 
 <br>
 
 ## Demo Video
-(¾Æ·¡ ÀÌ¹ÌÁö¸¦ Å¬¸¯ÇÏ½Ã¸é À¯Æ©ºê·Î ÀÌµ¿ÇÕ´Ï´Ù.)<br>
-<!--»çÁø°æ·Î, ¸µÅ©º¯°æ ÇÊ¿ä-->
-[![ÇÁ·ÎÁ§Æ® ½Ã¿¬¿µ»ó](/Documents/thumbnail.png)](https://youtu.be/MbwQFMftpic)<br>
+(ì•„ë˜ ì´ë¯¸ì§€ë¥¼ í´ë¦­í•˜ì‹œë©´ ìœ íŠœë¸Œë¡œ ì´ë™í•©ë‹ˆë‹¤.)<br>
+<!--ì‚¬ì§„ê²½ë¡œ, ë§í¬ë³€ê²½ í•„ìš”-->
+[![í”„ë¡œì íŠ¸ ì‹œì—°ì˜ìƒ](/Documents/thumbnail.png)](https://youtu.be/MbwQFMftpic)<br>
 <br>
 <br>
 
 
 ## Presentation Document
-(¾Æ·¡ ÀÌ¹ÌÁö¸¦ Å¬¸¯ÇÏ½Ã¸é ppt ´Ù¿î·Îµå È­¸éÀ¸·Î ÀÌµ¿ÇÕ´Ï´Ù.)<br>
-[![ÇÁ·ÎÁ§Æ® ¹ßÇ¥ÀÚ·á](/Documents/Elevator_MainFrame.png)](/Documents/Elevator_ppt_final.pptx)<br>
+(ì•„ë˜ ì´ë¯¸ì§€ë¥¼ í´ë¦­í•˜ì‹œë©´ ppt ë‹¤ìš´ë¡œë“œ í™”ë©´ìœ¼ë¡œ ì´ë™í•©ë‹ˆë‹¤.)<br>
+[![í”„ë¡œì íŠ¸ ë°œí‘œìë£Œ](/Documents/Elevator_MainFrame.png)](/Documents/Elevator_ppt_final.pptx)<br>
 <br>
 <br>
 
 
-[¸Ç À§·Î](#top)
+[ë§¨ ìœ„ë¡œ](#top)
