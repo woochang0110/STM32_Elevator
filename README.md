@@ -9,7 +9,6 @@
  - <font size="+1">[결과물](#output)</font>
  - <font size="+1">[데모 동영상](#demo-video)</font>
  - <font size="+1">[발표 자료](#presentation-document)</font>
- - <font size="+1">[개발 명세서](#development-specification)</font>
 <br><br><br>
 
 ## Outline
@@ -40,13 +39,14 @@
 ---
 
 ### Sequence Diagram
-서버측 이미지 수신 후 추론 및 HW 제어
+
 ![Image_inferencing Sequence Diagram1](./Documents/Elavator_SequenceDiagram.png)
 
 <br>
 
 ## Output
-![HW 결과물](./Documents/HW_CIRCUIT.png)
+
+![HW Circuit](./Documents/HW_CIRCUIT.png)
 
 <br>
 
