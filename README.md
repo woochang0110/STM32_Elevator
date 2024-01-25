@@ -24,7 +24,7 @@
 
 
 ## UML Diagram
- - <font size="+1">[Finate State Machine](#finate-state-machine)</font>
+ - <font size="+1">[Finite State Machine](#finite-state-machine)</font>
  <br>
 
  - <font size="+1">[Sequence Diagram](#sequence-diagram)</font>
@@ -32,8 +32,8 @@
 ---
 
 
-### Finate State Machine
-![Finate State Machine](./Documents/Elevator_FSM.png)
+### Finite State Machine
+![Finite State Machine](./Documents/Elevator_FSM.png)
 <br>
 
 ---
@@ -46,7 +46,7 @@
 
 ## Output
 
-![HW Circuit](./Documents/HW_CIRCUIT.png)
+[![HW Circuit](./Documents/HW_CIRCUIT.png)]
 
 <br>
 
@@ -59,7 +59,7 @@
 
 
 ## Presentation Document
-(아래 이미지를 클릭하시면 구글 슬라이드로 이동합니다.)<br>
+(아래 이미지를 클릭하시면 ppt 다운로드 화면으로 이동합니다.)<br>
 [![프로젝트 발표자료](/Documents/Elevator_MainFrame.png)](/Documents/Elevator_ppt_final.pptx)<br>
 <br>
 <br>
