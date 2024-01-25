@@ -1,6 +1,6 @@
 # STM32_Elevator
 <a name="top"></a>
-<font size="+2">STM32_Elevator System : Using STM32 RTOS, Multi-threading, GPIO / HW Control</font>
+<font size="+2"> STM32_Elevator System : Using STM32 RTOS, Multi-threading, GPIO / HW Control </font>
 <br>
 
 ## Contents:
@@ -25,7 +25,7 @@
 
 
 ## UML Diagram
- - <font size="+1">[High Level Design](#finate-state-machine)</font>
+ - <font size="+1">[Finate State Machine](#finate-state-machine)</font>
  <br>
 
  - <font size="+1">[Sequence Diagram](#sequence-diagram)</font>
@@ -46,7 +46,9 @@
 <br>
 
 ## Output
+![HW 결과물](./Documents/HW_CIRCUIT.png)
 
+<br>
 
 ## Demo Video
 (아래 이미지를 클릭하시면 유튜브로 이동합니다.)<br>
